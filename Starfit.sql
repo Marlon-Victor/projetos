@@ -431,6 +431,8 @@ insert into login (id_usuario, username, password) values
 (5, 'anac', 'senha123'),
 (6, 'rafaels', 'senha123');
 
+
+/*caso queira testar o código, basta apenas apagar o comentário*
 select * from alunos_ativos;
 select * from historico_treinos_aluno;
 select * from alunos_metas_ativas;
